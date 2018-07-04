@@ -4,4 +4,5 @@ Git can be used to save the game
 Git learning continuted
 Creating a new branch is quick and simple.
 Git add merge. 
+Forget to swtich to new branch.
 
