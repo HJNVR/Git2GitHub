@@ -1,8 +1,8 @@
 Git is a distributed version control system.
-Git is free software.
+Git is a free software.
 Git can be used to save the game
 Git learning continuted
 Creating a new branch is quick and simple.
 Git add merge. 
 Forget to swtich to new branch.
-
+edit readme.txt file on 7.6
