@@ -1,5 +1,6 @@
 (1) Steps of connecting to github 
 (2) push an entire directory(ie. folder) to github
+(3) push all things inside the directory to github
 
 (1) --------------------------------------------------
 
@@ -16,6 +17,8 @@
 
 
 (2) --------------------------------------------------
-1. do the git thing , git init ....
-2. do to the subdirectory; do $git add --all 
+1. just do $git add folder
+
+(3)--------------------------------------------------
+$git add --all
 
