@@ -1,6 +1,7 @@
 (1) Steps of connecting to github 
 (2) push an entire directory(ie. folder) to github
 (3) push all things inside the directory to github
+(4) disconnect from github 
 
 (1) --------------------------------------------------
 
@@ -21,4 +22,7 @@
 
 (3)--------------------------------------------------
 $git add --all
+
+(4) --------------------------------------------------
+$git remote rm origin 
 
